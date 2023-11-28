@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701171202 source:d:\courses\embeded systems\tasks\completed tasks\es-zag-eng-2024\task 3\4\main.c
+	<stdio.h>
+	<stdlib.h>
+
